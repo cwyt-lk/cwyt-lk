@@ -14,15 +14,6 @@ I value clean code, practical solutions, and continuous improvement over perfect
 
 ---
 
-## Currently Learning
-
-- Scalable system design & backend architecture  
-- Performance optimization across the stack  
-- Building better developer workflows & tooling  
-- Writing maintainable, production-ready code  
-
----
-
 ## Technical Skills
 
 #### Languages
@@ -55,17 +46,6 @@ I value clean code, practical solutions, and continuous improvement over perfect
 
 ---
 
-## Approach
-
-- Learn by building, not just reading  
-- Break down complex systems and understand fundamentals  
-- Iterate quickly and refine over time  
-- Focus on clarity, maintainability, and real-world usability  
-
----
-
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/connorwythe
-
----
